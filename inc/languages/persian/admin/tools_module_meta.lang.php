@@ -19,7 +19,7 @@ $l['database_backups'] = "پشتیبان‌گیری از پایگاه داده";
 $l['optimize_database'] = "بهینه‌سازی پایگاه داده";
 $l['file_verification'] = "تأیید فایل";
 
-$l['administrator_log'] = "گزارش مدیرکل";
+$l['administrator_log'] = "گزارش ادمین";
 $l['moderator_log'] = "گزارش مدیر";
 $l['user_email_log'] = "گزارش ایمیل کاربر";
 $l['system_mail_log'] = "گزارش ایمیل سیستم";

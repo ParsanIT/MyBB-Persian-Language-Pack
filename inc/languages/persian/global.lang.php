@@ -22,9 +22,9 @@ $l['bottomlinks_syndication'] = "پیوند RSS";
 $l['bottomlinks_litemode'] = "حالت سبک (آرشیو)";
 $l['bottomlinks_markread'] = "علامت‌گذاری همه انجمن‌ها به عنوان خوانده شده";
 
-$l['welcome_usercp'] = "کنترل پنل کاربر";
-$l['welcome_modcp'] = "کنترل پنل مدیریت (Mod CP)";
-$l['welcome_admin'] = "کنترل پنل ادمین (Admin CP)";
+$l['welcome_usercp'] = "کنترل‌پنل کاربر";
+$l['welcome_modcp'] = "کنترل‌پنل مدیریت";
+$l['welcome_admin'] = "کنترل‌پنل ادمین";
 $l['welcome_logout'] = "خروج";
 $l['welcome_login'] = "ورود";
 $l['welcome_register'] = "ثبت‌نام";
@@ -307,7 +307,7 @@ $l['postbit_button_purgespammer'] = "پاکسازی اسپم‌کننده";
 
 $l['forumjump'] = "پرش سریع به انجمن:";
 $l['forumjump_pms'] = "پیام‌های خصوصی";
-$l['forumjump_usercp'] = "کنترل پنل کاربر";
+$l['forumjump_usercp'] = "کنترل‌پنل کاربر";
 $l['forumjump_wol'] = "چه کسانی آنلاین هستند";
 $l['forumjump_search'] = "جستجو";
 $l['forumjump_home'] = "صفحه اصلی انجمن";
@@ -385,7 +385,7 @@ $l['banned_warning2'] = "دلیل مسدودسازی";
 $l['banned_warning3'] = "مسدودسازی برداشته خواهد شد در";
 $l['banned_lifted_never'] = "هرگز";
 $l['banned_email_warning'] = "شما در حال حاضر از یک ایمیل استفاده می‌کنید که استفاده از آن در این انجمن مجاز نیست. لطفاً قبل از ادامه، آن را بازنشانی کنید.";
-$l['powered_by'] = "پارسی شده توسط: <a href=\"https://parsanit.ir\" target=\"_blank\">ParsanIT</a> v1.0 <br /> قدرت گرفته از";
+$l['powered_by'] = "پارسی شده توسط: <a href=\"https://parsanit.ir\" target=\"_blank\">ParsanIT</a><br />قدرت گرفته از";
 $l['copyright'] = "کپی رایت";
 $l['attach_quota'] = "سهمیه مصرف پیوست شما {1} است.";
 $l['attach_usage'] = "شما در حال حاضر <strong>{1}</strong> مصرف کرده‌اید.";
@@ -575,9 +575,9 @@ $l['moderation_user_posts'] = "لطفاً توجه داشته باشید که پ
 $l['moderation_forum_thread'] = "لطفاً توجه داشته باشید که موضوع‌های جدید در این انجمن باید توسط مدیر تأیید شوند تا قابل مشاهده گردند.";
 $l['moderation_forum_edits'] = "لطفاً توجه داشته باشید که پست‌های ویرایش شده در این انجمن باید توسط مدیر تأیید شوند تا قابل مشاهده گردند.";
 $l['moderation_forum_edits_quick'] = "لطفاً توجه داشته باشید که پست‌های ویرایش شده در این انجمن باید توسط مدیر تأیید شوند تا قابل مشاهده گردند.";
-$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-awaiting_activation\">به کنترل پنل مدیر بروید</a>.";
-$l['awaiting_message_single'] = "1 حساب در انتظار فعال‌سازی وجود دارد. لطفاً برای فعال‌سازی کاربر به کنترل پنل مدیریت خود بروید.";
-$l['awaiting_message_plural'] = "{1} حساب در انتظار فعال‌سازی وجود دارد. لطفاً برای فعال‌سازی کاربران به کنترل پنل مدیریت خود بروید.";
+$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-awaiting_activation\">به کنترل‌پنل مدیر بروید</a>.";
+$l['awaiting_message_single'] = "1 حساب در انتظار فعال‌سازی وجود دارد. لطفاً برای فعال‌سازی کاربر به کنترل‌پنل مدیریت خود بروید.";
+$l['awaiting_message_plural'] = "{1} حساب در انتظار فعال‌سازی وجود دارد. لطفاً برای فعال‌سازی کاربران به کنترل‌پنل مدیریت خود بروید.";
 
 $l['select2_match'] = "یک نتیجه موجود است، برای انتخاب آن اینتر را فشار دهید.";
 $l['select2_matches'] = "{1} نتیجه موجود است، از کلیدهای جهت بالا و پایین برای پیمایش استفاده کنید.";

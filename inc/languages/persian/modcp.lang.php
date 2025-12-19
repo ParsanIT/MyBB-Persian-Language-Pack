@@ -27,7 +27,7 @@ $l['mcp_nav_modqueue_threads'] = "صف انتظار تعدیل موضوع‌ها
 $l['mcp_nav_modqueue_posts'] = "صف انتظار تعدیل پست‌ها";
 $l['mcp_nav_modqueue_attachments'] = "صف انتظار تعدیل پیوست‌ها";
 
-$l['modcp'] = "پنل کنترل مدیر";
+$l['modcp'] = "کنترل‌پنل مدیر";
 
 $l['view_all_reports'] = "مشاهده همه گزارش‌ها";
 $l['all_reports'] = "همه گزارش‌ها";

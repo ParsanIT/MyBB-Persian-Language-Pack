@@ -28,6 +28,6 @@ $l['ucp_nav_drafts'] = "پیش‌نویس‌های ذخیره شده";
 $l['ucp_nav_drafts_active'] = "<strong>پیش‌نویس‌های ذخیره شده ({1})</strong>";
 $l['ucp_nav_notepad'] = "دفترچه شخصی";
 $l['ucp_nav_view_profile'] = "مشاهده پروفایل";
-$l['ucp_nav_home'] = "خانه کنترل پنل کاربر";
+$l['ucp_nav_home'] = "خانه کنترل‌پنل کاربر";
 $l['ucp_nav_usergroups'] = "عضویت‌های گروه";
 $l['ucp_nav_attachments'] = "مدیریت پیوست‌ها";

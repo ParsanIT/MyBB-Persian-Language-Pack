@@ -68,7 +68,7 @@ $l['changing_avatar'] = "<a href=\"usercp.php?action=avatar\">تغییر آوا�
 $l['viewing_subscriptions'] = "مشاهده <a href=\"usercp.php?action=subscriptions\">اشتراک‌های موضوع</a>";
 $l['editing_pad'] = 'ویرایش <a href="usercp.php">پد شخصی</a>';
 $l['editing_password'] = "ویرایش <a href=\"usercp.php?action=password\">گذرواژه</a>";
-$l['user_cp'] = "مشاهده <a href=\"usercp.php\">پنل کنترل کاربر</a>";
+$l['user_cp'] = "مشاهده <a href=\"usercp.php\">کنترل‌پنل کاربر</a>";
 $l['viewing_portal'] = "مشاهده صفحه <a href=\"portal.php\">پورتال</a>";
 $l['viewing_noperms'] = "مشاهده صفحه عدم مجوزها";
 $l['unknown_location'] = "<a href=\"{1}\">موقعیت ناشناخته</a>";
@@ -109,7 +109,7 @@ $l['rating_thread'] = "امتیازدهی به موضوع";
 $l['managing_favorites'] = "مدیریت موضوع‌های مورد علاقه";
 $l['managing_subscriptions'] = "مدیریت موضوع‌های مشترک شده";
 $l['managing_group'] = "مدیریت یک گروه کاربری";
-$l['viewing_modcp'] = "مشاهده پنل کنترل مدیر (Mod CP)";
+$l['viewing_modcp'] = "مشاهده کنترل‌پنل مدیر";
 $l['viewing_modlogs'] = "مشاهده گزارش‌های مدیر";
 $l['managing_announcements'] = "مدیریت اطلاعیه‌ها";
 $l['search_for_user'] = "جستجوی کاربران";
