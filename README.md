@@ -10,7 +10,7 @@
 ---------
 
 
-Persian language pack for forums powered by MyBB.
+Persian language pack for MyBB powered forums.
 
 This pack was translated with the help of artificial intelligence and reviewed and corrected by humans (us). Given the volume and method of translation, it will definitely not be perfect, but it will improve with your help.
 
