@@ -528,7 +528,7 @@ none=مخفی کردن خطاها و هشدارها
 			<isdefault>1</isdefault>
 		</setting>
 		<setting name="regdateformat">
-			<title>Registered Date Format</title>
+			<title>قالب‌بندی تاریخ ثبت‌نام</title>
 			<description><![CDATA[قالبی که در showthread استفاده شده و زمان ثبت نام کاربر نمایش داده میدهد.]]></description>
 			<disporder>4</disporder>
 			<optionscode><![CDATA[text]]></optionscode>
