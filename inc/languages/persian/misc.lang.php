@@ -63,7 +63,7 @@ $l['syndication_version_atom1'] = "Atom 1.0";
 $l['syndication_version_rss2'] = "RSS 2.00 (پیش‌فرض)";
 $l['syndication_generate'] = "ایجاد لینک پیوند";
 $l['syndication_limit'] = "محدودیت:";
-$l['syndication_limit_desc'] = "تعداد موضوع‌هایی که باید همزمان دانلود شوند. حداکثر میتوان ۵۰ مورد را در یک زمان دانلود کرد.";
+$l['syndication_limit_desc'] = "تعداد موضوع‌هایی که باید همزمان دانلود شوند. حداکثر میتوان 50 مورد را در یک زمان دانلود کرد.";
 $l['syndication_threads_time'] = "موضوع‌ها در یک زمان";
 $l['syndicate_all_forums'] = "همه انجمن‌ها را پیوند کنید";
 

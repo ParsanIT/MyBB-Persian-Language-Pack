@@ -136,9 +136,9 @@ $l['d7_document'] = "شما می‌توانید از مای‌کد، که با �
 <td class=\"trow2\">مقادیر قابل قبول: xx-small, x-small, small, medium, large, x-large, xx-large</td>
 </tr>
 <tr>
-<td class=\"trow1\"><span style=\"font-weight: bold; color: #ff0000;\">[size=30]</span>این متن ۳۰ پیکسل است<span style=\"font-weight: bold; color: #ff0000;\">[/size]</span></td>
-<td class=\"trow1\"><span style=\"font-size: 30px\" class=\"mycode_size\">این متن ۳۰ پیکسل است</span></td>
-<td class=\"trow1\">اعداد ۱ تا ۵۰ را می‌پذیرد</td>
+<td class=\"trow1\"><span style=\"font-weight: bold; color: #ff0000;\">[size=30]</span>این متن 30 پیکسل است<span style=\"font-weight: bold; color: #ff0000;\">[/size]</span></td>
+<td class=\"trow1\"><span style=\"font-size: 30px\" class=\"mycode_size\">این متن 30 پیکسل است</span></td>
+<td class=\"trow1\">اعداد 1 تا 50 را می‌پذیرد</td>
 </tr>
 <tr>
 <td class=\"trow2\"><span style=\"font-weight: bold; color: #ff0000;\">[font=Impact]</span>این فونت Impact است<span style=\"font-weight: bold; color: #ff0000;\">[/font]</span></td>
@@ -151,13 +151,13 @@ $l['d7_document'] = "شما می‌توانید از مای‌کد، که با �
 <td class=\"trow1\">مقادیر قابل قبول: left، center، right، justify</td>
 </tr>
 <tr>
-<td class=\"trow2\"><span style=\"font-weight: bold; color: #ff0000;\">[list]</span><br />[*]آیتم لیست شماره ۱<br />[*]آیتم لیست شماره ۲<br />[*]آیتم لیست شماره ۳<br /><span style=\"font-weight: bold; color: #ff0000;\">[/list]</span></td>
-<td class=\"trow2\"><ul class=\"mycode_list\"><li>آیتم لیست شماره ۱</li><li>آیتم لیست شماره ۲</li><li>آیتم لیست شماره ۳</li></ul></td>
+<td class=\"trow2\"><span style=\"font-weight: bold; color: #ff0000;\">[list]</span><br />[*]آیتم لیست شماره 1<br />[*]آیتم لیست شماره 2<br />[*]آیتم لیست شماره 3<br /><span style=\"font-weight: bold; color: #ff0000;\">[/list]</span></td>
+<td class=\"trow2\"><ul class=\"mycode_list\"><li>آیتم لیست شماره 1</li><li>آیتم لیست شماره 2</li><li>آیتم لیست شماره 3</li></ul></td>
 <td class=\"trow2\"></td>
 </tr>
 <tr>
-<td class=\"trow1\"><span style=\"font-weight: bold; color: #ff0000;\">[list=1]</span><br />[*]آیتم لیست شماره ۱<br />[*]آیتم لیست شماره ۲<br />[*]آیتم لیست شماره ۳<br /><span style=\"font-weight: bold; color: #ff0000;\">[/list]</span></td>
-<td class=\"trow1\"><ol class=\"mycode_list\" type=\"1\"><li>آیتم لیست شماره ۱</li><li>آیتم لیست شماره ۲</li><li>آیتم لیست شماره ۳</li></ol></td>
+<td class=\"trow1\"><span style=\"font-weight: bold; color: #ff0000;\">[list=1]</span><br />[*]آیتم لیست شماره 1<br />[*]آیتم لیست شماره 2<br />[*]آیتم لیست شماره 3<br /><span style=\"font-weight: bold; color: #ff0000;\">[/list]</span></td>
+<td class=\"trow1\"><ol class=\"mycode_list\" type=\"1\"><li>آیتم لیست شماره 1</li><li>آیتم لیست شماره 2</li><li>آیتم لیست شماره 3</li></ol></td>
 <td class=\"trow1\">از <strong>1</strong> می‌توان برای لیست شماره‌دار، از <strong>a</strong> برای لیست الفبایی و از <strong>i</strong> برای لیست اعداد رومی استفاده کرد.</td>
 </tr>
 <tr>

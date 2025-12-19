@@ -114,9 +114,9 @@ $l['dst_correction'] = "تصحیح ساعت تابستانی:";
 $l['dst_correction_auto'] = "تنظیمات DST را به طور خودکار تشخیص بده";
 $l['dst_correction_enabled'] = "همیشه از تصحیح DST استفاده کن";
 $l['dst_correction_disabled'] = "هرگز از تصحیح DST استفاده نکن";
-$l['redirect_registered_coppa_activate'] = "از ثبت‌نام شما در {1}، {2} سپاسگزاریم. حساب شما با موفقیت ایجاد شد، اما از آنجایی که مالک این حساب زیر ۱۳ سال سن دارد، برای استفاده از این حساب نیاز به کسب اجازه والدین است.<br /><br />والدین یا سرپرست قانونی باید یک نسخه تکمیل شده از <a href=\"member.php?action=coppa_form\">فرم انطباق با COPPA</a> ما را دانلود، پر و برای ما ارسال کنند.<br /><br />به محض دریافت نسخه تکمیل شده این فرم، حساب فعال خواهد شد.";
+$l['redirect_registered_coppa_activate'] = "از ثبت‌نام شما در {1}، {2} سپاسگزاریم. حساب شما با موفقیت ایجاد شد، اما از آنجایی که مالک این حساب زیر 13 سال سن دارد، برای استفاده از این حساب نیاز به کسب اجازه والدین است.<br /><br />والدین یا سرپرست قانونی باید یک نسخه تکمیل شده از <a href=\"member.php?action=coppa_form\">فرم انطباق با COPPA</a> ما را دانلود، پر و برای ما ارسال کنند.<br /><br />به محض دریافت نسخه تکمیل شده این فرم، حساب فعال خواهد شد.";
 $l['coppa_compliance'] = "انطباق با COPPA";
-$l['coppa_desc'] = "جهت ثبت‌نام در این انجمن‌ها، ما ملزم به تأیید سن شما برای رعایت <a href=\"https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule\" title=\"قانون حفاظت از حریم خصوصی آنلاین کودکان\" target=\"_blank\" rel=\"noopener\">COPPA</a> هستیم. لطفاً تاریخ تولد خود را در زیر وارد کنید.<br /><br />اگر زیر ۱۳ سال سن دارید، برای ثبت‌نام باید اجازه والدین اخذ شود. والدین یا سرپرست قانونی باید یک نسخه تکمیل شده از <a href=\"member.php?action=coppa_form\" target=\"_blank\" rel=\"noopener\">فرم انطباق با COPPA</a> ما را دانلود، پر و برای ما ارسال کنند.";
+$l['coppa_desc'] = "جهت ثبت‌نام در این انجمن‌ها، ما ملزم به تأیید سن شما برای رعایت <a href=\"https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule\" title=\"قانون حفاظت از حریم خصوصی آنلاین کودکان\" target=\"_blank\" rel=\"noopener\">COPPA</a> هستیم. لطفاً تاریخ تولد خود را در زیر وارد کنید.<br /><br />اگر زیر 13 سال سن دارید، برای ثبت‌نام باید اجازه والدین اخذ شود. والدین یا سرپرست قانونی باید یک نسخه تکمیل شده از <a href=\"member.php?action=coppa_form\" target=\"_blank\" rel=\"noopener\">فرم انطباق با COPPA</a> ما را دانلود، پر و برای ما ارسال کنند.";
 $l['coppa_desc_for_deny'] = "جهت ثبت‌نام در این انجمن‌ها، ما ملزم به تأیید سن شما برای رعایت <a href=\"https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule\" title=\"قانون حفاظت از حریم خصوصی آنلاین کودکان\" target=\"_blank\" rel=\"noopener\">COPPA</a> هستیم. لطفاً تاریخ تولد خود را در زیر وارد کنید.";
 $l['hide_dob'] = "می‌توانید با ویرایش پروفایل خود پس از ثبت‌نام، تاریخ تولد و سن خود را پنهان کنید.";
 $l['signature'] = "امضا:";
@@ -138,7 +138,7 @@ $l['relation'] = "نسبت:";
 $l['phone_no'] = "شماره تلفن:";
 $l['coppa_parent_agreement'] = "من درک می‌کنم که اطلاعات ارائه شده صادقانه است، هرگونه اطلاعات ممکن است در آینده با وارد کردن رمز عبور ارائه شده تغییر یابد و این حساب کاربری با درخواست قابل حذف است.";
 
-$l['coppa_agreement_1'] = "کاربران زیر ۱۳ سال باید برای ثبت‌نام در {1} از والدین یا سرپرست قانونی خود اجازه دریافت کنند.";
+$l['coppa_agreement_1'] = "کاربران زیر 13 سال باید برای ثبت‌نام در {1} از والدین یا سرپرست قانونی خود اجازه دریافت کنند.";
 $l['coppa_agreement_2'] = "والدین یا سرپرست قانونی باید یک نسخه تکمیل شده از <a href=\"member.php?action=coppa_form\" target=\"_blank\" rel=\"noopener\">فرم انطباق با COPPA</a> ما را دانلود، پر و ارسال کنند تا عضویت اعطا شود.";
 $l['coppa_agreement_3'] = "اگر مایل باشید، می‌توانید فرآیند ثبت‌نام را اکنون شروع کنید، اما حساب تا زمان دریافت فرم انطباق ذکر شده، غیرقابل دسترس خواهد بود.";
 
